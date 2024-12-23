@@ -10,6 +10,7 @@ def print_hi(name):
 
 print("Hello Python")
 print("Data Science")
+print("AI& ML")
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Vamsi Krishna')
